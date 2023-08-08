@@ -9,10 +9,11 @@ The dataset used for this project can be accessed from the [data-source-link](ht
 ## Model Training
 In this project, several machine learning algorithms have been used to experiment with different models. These are as follows:
 
-Random Forest Regressor
-Gradient Boosting Regressor
-Support Vector Regressor (SVR)
-XGBoost Regressor
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Support Vector Regressor (SVR)
+- XGBoost Regressor
+  
 Each model has been trained with the training dataset. During the training process, hyperparameter tuning and model performance evaluation have been conducted.
 
 ## Model Performance Results:
